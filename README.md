@@ -3,6 +3,8 @@ to UPPERCASE or lowercase
 
 How to use:
 
+0.) Ctrl + c to copy current text to clipboard
+
 1a.) To convert to uppercase, press (win + up)
 
 1b.) To convert to lowercase, press (win + down)
